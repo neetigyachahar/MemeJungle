@@ -16,3 +16,5 @@ Please visit [MemeJungle.com](https://memejungle.com) to check out the project.
 ### Search page
 ![image](https://user-images.githubusercontent.com/42602123/144885387-c3e30b6a-8a7c-43a3-877e-491113ca8051.png)
 
+### Trending page
+![image](https://user-images.githubusercontent.com/42602123/144887198-d471c33b-6650-4c33-a5c6-80bad16501f1.png)
